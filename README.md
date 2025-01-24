@@ -20,7 +20,9 @@ Have a unique idea for how AI agents can be applied in crypto? Add your use case
 2. A brief description of the idea.
 
 ### Current Use Case Ideas
--
+- **Predictive Market Analysis:** AI models forecast market trends to optimize trading strategies.
+- **Automated Airdrops:** AI identifies real people and top contributors to an ecosystem to automatically airdrop funding to their wallet address.
+- **Eco Impact Prediction:** Agents forecast ecological benefits of projects and tokenize them for funding.
 
 ## Projects
 If you’ve worked on or know of projects implementing AI agents in crypto, share them here! Submit a Pull Request with:
@@ -29,7 +31,8 @@ If you’ve worked on or know of projects implementing AI agents in crypto, shar
 3. A link to its website, repository, or documentation.
 
 ### Current Projects
--
+- **[Celo Meme Token Generator](https://github.com/harishkotra/celo-token-agent)**: an AI Agent that autonomously deploys tokens on [Celo](https://docs.celo.org/) using [Gaia](https://docs.gaianet.ai/intro/)
+ 
 
 ## Tools
 Know of tools that support AI agents in crypto? Add them to this list by submitting a Pull Request. 
@@ -39,4 +42,4 @@ Include:
 3. A link to its repository, website, or documentation.
 
 ### Current Tools
-- 
+- **[Gaia AI Network](https://github.com/GaiaNet-AI)**: Building an active, intelligent ecosystem that supports applications that learn, improve and grow over time.
