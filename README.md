@@ -11,6 +11,7 @@ If you have:
 1. New **use case ideas** for AI agents and crypto.
 2. Example **projects** showcasing implementations.
 3. Additional **tools or frameworks** to expand our resource list.
+4. Upcoming AI x crypto **hackathons**.
 
 Please submit a Pull Request to share your contributions. Let’s work together to grow this knowledge base and inspire more builders!
 
@@ -43,3 +44,12 @@ Include:
 
 ### Current Tools
 - **[Gaia AI Network](https://github.com/GaiaNet-AI)**: Building an active, intelligent ecosystem that supports applications that learn, improve and grow over time.
+
+## Hackathons
+Show off your skills in upcoming AI Agent x Crypto hackathons. Add to this list by submitting a Pull Request. Include:
+1. The name of the hackathon.
+2. The date of the hackathon.
+3. A link to register.
+
+### Upcoming Hackathons
+- **[Build With Celo: Proof-of-Ship](https://lemonade.social/e/4JkhOXcD)**: Win up to $5k cUSD each month by continously shipping code!
