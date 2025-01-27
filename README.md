@@ -13,7 +13,7 @@ If you have:
 3. Additional **tools or frameworks** to expand our resource list.
 4. Upcoming AI x crypto **hackathons**.
 
-Please submit a Pull Request to share your contributions. Let’s work together to grow this knowledge base and inspire more builders!
+Please edit this readme.md file and submit a Pull Request to share your contributions.
 
 ## Use Cases
 Have a unique idea for how AI agents can be applied in crypto? Add your use case ideas to this section by submitting a Pull Request. Include:
