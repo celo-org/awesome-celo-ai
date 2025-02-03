@@ -33,7 +33,7 @@ If you’ve worked on or know of projects implementing AI agents in crypto, shar
 
 ### Current Projects
 - **[Celo Meme Token Generator](https://github.com/harishkotra/celo-token-agent)**: an AI Agent that autonomously deploys tokens on [Celo](https://docs.celo.org/) using [Gaia](https://docs.gaianet.ai/intro/)
- 
+- **[Atmos AI Agent](https://www.heyatmos.com)**: an AI-powered assistant integrated with Atmos, a sustainability reporting tool. It leverages blockchain and crypto technology to make ESG data more accessible, transparent, and verifiable.
 
 ## Tools
 Know of tools that support AI agents in crypto? Add them to this list by submitting a Pull Request. 
