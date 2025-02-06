@@ -44,6 +44,7 @@ Include:
 
 ### Current Tools
 - **[Gaia AI Network](https://github.com/GaiaNet-AI)**: Building an active, intelligent ecosystem that supports applications that learn, improve and grow over time.
+- [Olas](): Build 
 
 ## Hackathons
 Show off your skills in upcoming AI Agent x Crypto hackathons. Add to this list by submitting a Pull Request. Include:
@@ -53,3 +54,4 @@ Show off your skills in upcoming AI Agent x Crypto hackathons. Add to this list 
 
 ### Upcoming Hackathons
 - **[Build With Celo: Proof-of-Ship](https://lemonade.social/e/4JkhOXcD)**: Win up to $5k cUSD each month by continously shipping code!
+- **[Safe Agentathon](https://safe.global/ai)**: A new hackathon to build sovereign agents with the best AI x Crypto stacks out there!
